@@ -120,7 +120,87 @@ String password = "your_mysql_password";
 5. Transaction History
 6. Exit
 ```
+##OUTPUT
+--- Banking Management System ---
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Balance Enquiry
+5. Transaction History
+6. Exit
+Choose option: 1
+Enter Name: rahul kumar
+Enter Initial Balance: 10000
+Account Created Successfully
 
+--- Banking Management System ---
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Balance Enquiry
+5. Transaction History
+6. Exit
+Choose option: 4
+Enter Account Number: 3
+Account Holder: rahul kumar
+Current Balance: 10000.0
+
+--- Banking Management System ---
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Balance Enquiry
+5. Transaction History
+6. Exit
+Choose option: 4
+Enter Account Number: 1
+Account Holder: sagar
+Current Balance: 101.0
+
+--- Banking Management System ---
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Balance Enquiry
+5. Transaction History
+6. Exit
+Choose option: 4
+Enter Account Number: 2
+Account Holder: sagar maharathi
+Current Balance: 200000.0
+
+--- Banking Management System ---
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Balance Enquiry
+5. Transaction History
+6. Exit
+Choose option: 2
+Enter Account Number: 1
+Enter Amount to Deposit: 30
+Deposit Successful
+
+--- Banking Management System ---
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Balance Enquiry
+5. Transaction History
+6. Exit
+Choose option: 4
+Enter Account Number: 1
+Account Holder: sagar
+Current Balance: 131.0
+
+--- Banking Management System ---
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Balance Enquiry
+5. Transaction History
+6. Exit
+Choose option: 
 ## 🚀 Future Enhancements
 
 * User login & PIN
@@ -129,3 +209,4 @@ String password = "your_mysql_password";
 * Spring Boot version
 
 ---
+
