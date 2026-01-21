@@ -119,8 +119,9 @@ String password = "your_mysql_password";
 4. Balance Enquiry
 5. Transaction History
 6. Exit
+   
+📌 OUTPUT📌 
 ```
-##OUTPUT
 --- Banking Management System ---
 1. Create Account
 2. Deposit
@@ -200,7 +201,8 @@ Current Balance: 131.0
 4. Balance Enquiry
 5. Transaction History
 6. Exit
-Choose option: 
+Choose option:
+```
 ## 🚀 Future Enhancements
 
 * User login & PIN
